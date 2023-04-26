@@ -1,3 +1,3 @@
-# Autor: Ivana Neskovic 167/2019
+# Autor:
 
-# Tema: Smoking
+# Tema: 
