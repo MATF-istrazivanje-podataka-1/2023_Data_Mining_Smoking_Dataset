@@ -1,0 +1,5 @@
+Consequent	Antecedent 	Support %	Confidence %
+gender	dental caries and smoking	9,887	96,204
+gender	dental caries and smoking and tartar	7,443	96,116
+gender	smoking	36,729	95,801
+gender	smoking and tartar	22,768	95,702
