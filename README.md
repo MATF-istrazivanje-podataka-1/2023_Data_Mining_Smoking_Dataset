@@ -3,6 +3,7 @@
 # Tema: Body signal of smoking
 
 U ovom projektu pravimo model za predviđanje da li je osoba pušač i demonstriramo upotrebu algoritama:
+
      1. Klasifikacija:  Decesion Tree, Random Forrest, KNN
      
      2. Klasterovanje: Kmeans, Bisecting Kmeans, Gaussian Mixture
