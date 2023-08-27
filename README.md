@@ -24,13 +24,22 @@ U ovom projektu pravimo model za predviđanje da li je osoba pušač i demonstri
  
 Neophodne biblioteke:
 
-numpy: pip install numpy
-pandas: pip install pandas
-sklearn: pip install scikit-learn
-matplotlib: pip install matplotlib
-seaborn: pip install seaborn
-joblib: pip install joblib
-difflib: pip install difflib
-termcolor: pip install termcolor
-imblearn: pip install imblearn
-fcmeans: pip install fuzzy-c-means
+ numpy: pip install numpy
+ 
+ pandas: pip install pandas
+ 
+ sklearn: pip install scikit-learn
+ 
+ matplotlib: pip install matplotlib
+ 
+ seaborn: pip install seaborn
+ 
+ joblib: pip install joblib
+ 
+ difflib: pip install difflib
+ 
+ termcolor: pip install termcolor
+ 
+ imblearn: pip install imblearn
+ 
+ fcmeans: pip install fuzzy-c-means
