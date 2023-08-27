@@ -14,6 +14,7 @@ U ovom projektu pravimo model za predviđanje da li je osoba pušač i demonstri
      
      3. Pravila pridruživanja: Apriori
 
+* Osnovne informacije:
 
  Autor: Ivana Nešković, 167/2019
  
@@ -22,7 +23,7 @@ U ovom projektu pravimo model za predviđanje da li je osoba pušač i demonstri
  Asistent: Marija Erić
 
  
-Neophodne biblioteke:
+* Neophodne biblioteke:
 
  numpy: pip install numpy
  
@@ -35,8 +36,6 @@ Neophodne biblioteke:
  seaborn: pip install seaborn
  
  joblib: pip install joblib
- 
- difflib: pip install difflib
  
  termcolor: pip install termcolor
  
